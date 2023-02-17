@@ -62,7 +62,7 @@ main {
   min-height: 72vh;
 }
 
-/* PAges */
+/* Pages */
 /* About */
 #about_page {
   padding: 50px;
@@ -85,7 +85,131 @@ main {
   height: 100%;
   border-radius: 50%;
 }
-/* M<ain End */
+
+#about_page p {
+  line-height: 2;
+  margin-top: 15px;
+}
+
+.portfolio_page {
+  padding: 25px 50px;
+}
+
+.portfolio_page h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.projects_container {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  width: 100%;
+  row-gap: 30px;
+}
+
+.project_item {
+  width: 30%;
+  background-color: #c0eef2;
+  border-radius: 5px;
+}
+
+.project_item img {
+  width: 100%;
+  border-radius: 5px;
+}
+.project_item p {
+  width: 100%;
+}
+
+.project_item p a {
+  font-size: 22px;
+  background-color: #181823;
+  color: #e9f8f9;
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+  padding: 5px;
+  margin-top: 10px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.contact_page {
+  padding: 25px 50px;
+  background-color: #c0eef2;
+  min-height: 72vh;
+}
+
+.contact_page h1 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.contact_page form {
+  width: 50%;
+  margin: auto;
+}
+
+.contact_page form div {
+  width: 100%;
+  margin-top: 6px;
+}
+
+input,
+textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+}
+
+.contact_page form div button {
+  background-color: #181823;
+  color: #e9f8f9;
+  border: none;
+  padding: 12px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.resume_page {
+  background-color: #c0eef2;
+  padding: 25px 50px;
+  min-height: 72vh;
+}
+
+.resume_page p button {
+  width: 150px;
+  padding: 12px;
+  background-color: #181823;
+  color: #e9f8f9;
+  cursor: pointer;
+  margin: auto;
+  display: block;
+  border: none;
+  transition: all 0.2s linear;
+}
+
+.resume_page p button:hover {
+  border-radius: 6px;
+}
+
+.resume_page ul {
+  width: 50%;
+  margin: auto;
+  padding-top: 20px;
+}
+
+.resume_page ul li {
+  line-height: 1.5;
+}
+
+.resume_page ul li:nth-child(even) {
+  background-color: #e9f8f9;
+}
+/* Main End */
 
 /* Footer */
 footer {

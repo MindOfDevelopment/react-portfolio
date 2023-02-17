@@ -5,7 +5,10 @@ function About() {
     <section id="about_page">
       <h2>About Me</h2>
       <div className="about_img">
-        <img src="https://via.placeholder.com/300" alt="profile" />
+        <img
+          src="https://www.computersciencedegreehub.com/wp-content/uploads/2016/02/what-is-coding-768x512.jpg"
+          alt="profile"
+        />
       </div>
       <div>
         <p>
