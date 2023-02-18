@@ -5,17 +5,21 @@ function Footer() {
     <footer>
       <p>
         <a
-          href="https://github.com/myusername"
+          href="https://github.com/MindOfDevelopment"
           target="_blank"
           rel="noreferrer"
         >
           <i className="fa-brands fa-github"></i>
         </a>
-        <a href="https://linkedin.com/userid" target="_blank" rel="noreferrer">
+        <a
+          href="https://linkedin.com/useridwww.linkedin.com/in/mindaugas-narusevicius-a06265248"
+          target="_blank"
+          rel="noreferrer"
+        >
           <i className="fa-brands fa-linkedin"></i>
         </a>
         <a
-          href="https://stackoverflow.com/myusername"
+          href="https://stackoverflow.com/users/17278177/mind"
           target="_blank"
           rel="noreferrer"
         >

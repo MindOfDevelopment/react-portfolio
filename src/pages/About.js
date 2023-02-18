@@ -12,16 +12,19 @@ function About() {
       </div>
       <div>
         <p>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Est
-          explicabo assumenda sequi fuga ducimus, aut placeat tempora inventore
-          temporibus odio accusantium numquam debitis tempore voluptas, iusto
-          deserunt ratione dolorem ipsam.
+          My name is Mindaugas Narusevicius, a student at Birmingham University
+          Coding Fullstack Bootcamp. I live in Birmingham, UK. As a fullstack
+          coding bootcamp student, I have been immersed in the world of
+          programming and software development for quite some time now. With
+          each passing day, I find myself becoming more and more fascinated with
+          the limitless possibilities that programming offers.
         </p>
         <p>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Est
-          explicabo assumenda sequi fuga ducimus, aut placeat tempora inventore
-          temporibus odio accusantium numquam debitis tempore voluptas, iusto
-          deserunt ratione dolorem ipsam.
+          During my time in the bootcamp, I have been exposed to a wide range of
+          programming languages and tools, including HTML, CSS, JavaScript,
+          React and Node.js. As I continue to learn and grow as a programmer, I
+          am excited to see where this journey will take me and what kind of
+          innovative solutions I will be able to create.
         </p>
       </div>
     </section>
