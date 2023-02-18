@@ -46,7 +46,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 The following images show the web application's appearance:
 
-![image](files://C:\Challenges[Bootcamp]\No_20\react-portfolio\public\screenshot.jpg)
+![screenshot](public/screenshot.jpg)
 
 ## URL Links
 
