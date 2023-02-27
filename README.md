@@ -50,4 +50,4 @@ The following images show the web application's appearance:
 
 ## URL Links
 
-Heroku Deployment Link: [] (live link)
+Heroku Deployment Link: [https://mind-react-portfolio.herokuapp.com/] (live link)
